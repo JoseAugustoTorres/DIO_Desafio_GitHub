@@ -1,2 +1,2 @@
-# DIO_Desafio_GitHub
+# Desafio GitHub
 Desafio de GIT/GITHUB, pela plataforma DIO
